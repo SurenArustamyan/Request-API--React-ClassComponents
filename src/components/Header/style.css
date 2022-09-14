@@ -1,0 +1,22 @@
+.select{
+    width: 180px;
+    height:40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fetch-btn{
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+.header-box{
+    width: 20%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
